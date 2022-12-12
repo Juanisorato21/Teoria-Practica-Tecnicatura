@@ -129,3 +129,13 @@ print(lista3)
 tupla = (4, 'HOLA', 6.27, [1,5,8], 4, 'HOLA')
 print(tupla)
 print(4 in tupla)
+
+#Repaso de set o conjuntos / dentro de un conjuntos hay valores unicos
+conjunto =set()
+conjunto1 = {'Bye',}
+conjunto.add(7)
+conjunto.add('HOLA')
+conjunto.add('ESTO ESTA EN PYTHON')
+print(conjunto)
+conjunto1.add('Adios')
+print(conjunto1)
