@@ -1,5 +1,5 @@
 #lista = Ariel, Liliana, Natalia, Osvaldo
-
+#@autor: juani Sorato
 #Colecciones en python (arreglos)
 
 nombres = ['Naty','Osvaldo','Liliana','Juani']
