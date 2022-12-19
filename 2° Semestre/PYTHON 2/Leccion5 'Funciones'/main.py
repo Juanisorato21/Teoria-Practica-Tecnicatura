@@ -1,5 +1,5 @@
 #Comenzamos con funciones.
-
+#@Autor: Juani Sorato
 #Definimos una funcion
 def mi_funcion(): #para identificar a la funcion utilizamos parentesis
     print('Saludos a todos que miran el archivo desde githb')
