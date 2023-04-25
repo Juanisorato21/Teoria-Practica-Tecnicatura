@@ -9,8 +9,8 @@ conexion = psycopg2.connect(
 
 cursor = conexion.cursor()
 sentencia = 'SELECT * FROM persona'
-cursor.execute(sentencia) # De esta manera ejecutamos la sentencia
-registros = cursor.fetchall() # Recuperamos todos los registros que seran una lista
+cursor.execute(sentencia) # De esta manera ejecutamos la sentencia.
+registros = cursor.fetchall() # Recuperamos todos los registros que seran una lista.
 print(registros)
 
 cursor.close()
