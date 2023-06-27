@@ -1,0 +1,230 @@
+[19:50:53]:DEBUG [logger_base.py:14] Mensaje a nivel debug
+[19:50:53]:INFO [logger_base.py:15] Mensaje a nivel info
+[19:50:53]:WARNING [logger_base.py:16] Mensaje a nivel warning
+[19:50:53]:ERROR [logger_base.py:17] Mensaje a nivel error
+[19:50:53]:CRITICAL [logger_base.py:18] Mensaje a nivel critical
+[19:22:55]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:25:30]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:25:59]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:25:59]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:27:07]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:27:07]:DEBUG [Persona.py:57] 
+            Id Persona: Manuel,
+            Nombre: Daneri,
+            Apellido: josedaneri@mail.com, 
+            Email: None
+        
+[19:27:36]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:27:36]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:31:39]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:31:39]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:31:39]:DEBUG [Persona.py:60] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[17:18:21]:DEBUG [Persona.py:54] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[17:18:21]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[17:18:21]:DEBUG [Persona.py:60] 
+            Id Persona: 1,
+            Nombre: Daniela,
+            Apellido: Perez, 
+            Email: danielaPerez@mail.com
+        
+[19:42:52]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:43:45]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:45:20]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:46:21]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:57:34]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:58:55]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:59:19]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:59:19]:DEBUG [Persona.py:60] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:00:45]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:00:45]:DEBUG [Persona.py:60] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:01:45]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:01:45]:DEBUG [Persona.py:60] 
+            Id Persona: 1,
+            Nombre: None,
+            Apellido: None, 
+            Email: None
+        
+[20:03:33]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:03:33]:DEBUG [Persona.py:60] 
+            Id Persona: 1,
+            Nombre: None,
+            Apellido: None, 
+            Email: None
+        
+[20:04:11]:DEBUG [Persona.py:57] 
+            Id Persona: 1,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:10:55]:DEBUG [Persona.py:57] 
+            Id Persona: 1,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:16:54]:DEBUG [Persona.py:57] 
+            Id Persona: 1,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:17:24]:DEBUG [Persona.py:57] 
+            Id Persona: 1,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:17:48]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[19:21:32]:DEBUG [Persona.py:57] 
+            Id Persona: 2,
+            Nombre: Manuel,
+            Apellido: Daneri, 
+            Email: josedaneri@mail.com
+        
+[20:06:35]:DEBUG [conexion.py:37] creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F7C5127EE0>
+[20:08:07]:DEBUG [conexion.py:37] creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000029AA4BF7F70>
+[20:08:07]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000029AA2963120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:08:07]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000029AA2962F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:08:58]:DEBUG [conexion.py:37] creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000028F23B5C040>
+[20:08:58]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000028F21883120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:08:58]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000028F21882F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:08:58]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000028F21883DE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:22]:DEBUG [conexion.py:37] creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000286CE17C1F0>
+[20:09:22]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x00000286CC243120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:22]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x00000286CC242F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:22]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x00000286CC243DE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:23]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x00000286CE3FC590; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:23]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x00000286CE3FC6A0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:37] creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000226570FC1F0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000022654ED3120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000022654ED2F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x0000022654ED3DE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x000002265735C590; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x000002265735C6A0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+[20:09:59]:DEBUG [conexion.py:19] Conexión obtenida del pool: <connection object at 0x000002265735C7B0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
