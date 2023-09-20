@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TP Base de datos</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        body {
+            text-align: center;
+        }
+
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>TP Base de Datos</h1>
+    <p>Grupo: Phoenix Dev Lab</p>
+    
+    <!-- Agrega los botones -->
+    <button onclick="mostrarTablaScrum()">Tabla de Scrum</button>
+    <button onclick="mostrarPropiedadesSolid()">Propiedades SOLID</button>
+
+    <div id="tablaScrum" style="display: none;">
+        <!-- Contenido de la tabla -->
+        <table>
+            <thead>
+                <tr>
+                    <th>SEMANA</th>
+                    <th>SCRUM MASTER</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>📍 semana 1</td>
+                    <td>GUSTAVO CESARETTI</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 2</td>
+                    <td>JAVIER BREGA</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 3</td>
+                    <td>JUAN SORATO</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 4</td>
+                    <td>GUSTAVO CESARETTI</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 5</td>
+                    <td>JAVIER BREGA</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 6</td>
+                    <td>JUAN SORATO</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 7</td>
+                    <td>GUSTAVO CESARETTI</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 8</td>
+                    <td>JAVIER BREGA</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 9</td>
+                    <td>JUAN SORATO</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 10</td>
+                    <td>GUSTAVO CESARETTI</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 11</td>
+                    <td>JAVIER BREGA</td>
+                </tr>
+                <tr>
+                    <td>📍 semana 12</td>
+                    <td>JUAN SORATO</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div id="propiedadesSolid" style="display: none;">
+        <h1>Principios SOLID</h1>
+        <p>SOLID es una regla memotécnica para cinco principios de diseño ideados para hacer que los diseños de software sean más comprensibles, flexibles y fáciles de mantener. Es importante saber utilizar estos principios, ya que es muy difícil aplicarlos todos al mismo tiempo.</p>
+    </div>
+    <div>
+        <h1>PRINCIPIO DE RESPONSABILIDAD ÚNICA</h1>
+        <p>Hace referencia a que una clase sólo debe tener una razón para cambiar.
+            El principal objetivo es reducir la complejidad. 
+            Cada clase será responsable de una única parte de la funcionalidad dada por el software 
+            y esa responsabilidad quedará encapsulada por la clase
+            Ejemplo:
+            La clase Empleado tiene varias razones para cambiar </p>
+            <img src="./foto1.png" alt="Ejemplo 1">
+            <p>La clase Empleado tiene varias razones para cambiar. 
+            1° razón: puede estar relacionada con el trabajo principal de la clase: gestionar información de los 
+            empleados.
+            2° razón: el formato del informe de horas de trabajo puede cambiar con el tiempo, por lo tanto, se 
+            deberá cambiar el código de la clase.
+            El problema se resuelve moviendo el comportamiento relacionado con la 
+            impresión de informes de horas de trabajo a una clase separada. 
+            Este cambio te permite mover otros elementos relacionados con el informe a la 
+            nueva clase.
+            Veremos entonces que el comportamiento adicional está en su propia clase</p>
+            <img src="./foto2.png" alt="Ejemplo 2 y 3">
+    </div>
+
+    <!-- Funciones JavaScript para manejar los botones -->
+    <script>
+        function mostrarTablaScrum() {
+            // Mostrar la tabla de Scrum cambiando la propiedad "display" del div
+            var tablaScrumDiv = document.getElementById("tablaScrum");
+            tablaScrumDiv.style.display = "block";
+            
+            // Ocultar el otro div si está visible
+            var propiedadesSolidDiv = document.getElementById("propiedadesSolid");
+            propiedadesSolidDiv.style.display = "none";
+        }
+
+        function mostrarPropiedadesSolid() {
+            // Mostrar el contenido de las propiedades SOLID cambiando la propiedad "display" del div
+            var propiedadesSolidDiv = document.getElementById("propiedadesSolid");
+            propiedadesSolidDiv.style.display = "block";
+            
+            // Ocultar la tabla de Scrum si está visible
+            var tablaScrumDiv = document.getElementById("tablaScrum");
+            tablaScrumDiv.style.display = "none";
+        }
+    </script>
+</body>
+</html>
+
+
