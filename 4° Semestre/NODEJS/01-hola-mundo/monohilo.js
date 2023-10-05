@@ -11,4 +11,4 @@ setInterval(function() {  //recibe 2 argumentos, funcion para ejecutar x tiempo
     //    var a = 3 + z;
     //}
 },1000); //1seg
-console.log('Segunda instrucción');
+console.log('Última instrucción');
